@@ -18,7 +18,7 @@
 
 Markdown is a set of simple rules that make it easy to create beautiful documents while writing in "plain text" (plaintext is just the regular alphabet, with a few familiar symbols like \* and \`. Websites like GitHub and reddit and applications like Slack or MSTeams use Markdown to style their comments.
 
-This is a short markdown reference and showcase. For more complete information, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
+This is a short markdown reference and showcase. For more complete information, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](https://github.github.com/gfm/).
 
 If you are searching for a a more elaborate tutorial, check out [The markdown guide](https://www.markdownguide.org/) or [The markdown tutorial](http://markdowntutorial.com/)
 
