@@ -9,9 +9,9 @@
 [Tables](#tables)  
 [Blockquotes](#blockquotes)  
 [HTML](#html)  
-[Horizontal Rule](#hr)  
-[Line Breaks](#lines)  
-[YouTube Videos](#videos)  
+[Horizontal Rule](#horizontal-rule)  
+[Line Breaks](#line-breaks)  
+[YouTube Videos](#youtube-videos)  
 
 
 # Introduction
@@ -332,7 +332,7 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
 
 
-## Horizontal Rule
+# Horizontal Rule
 
 ```
 Three or more...
