@@ -8,7 +8,7 @@
 [Code and Syntax Highlighting](#code)  
 [Tables](#tables)  
 [Blockquotes](#blockquotes)  
-[Inline HTML](#html)  
+[HTML](#html)  
 [Horizontal Rule](#hr)  
 [Line Breaks](#lines)  
 [YouTube Videos](#videos)  
@@ -308,7 +308,7 @@ Quote break.
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
 
-# Inline HTML
+# HTML
 
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well. 
 
