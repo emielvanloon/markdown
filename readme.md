@@ -1,5 +1,5 @@
 ## Table of Contents  
-[Intro](#introduction)  
+[Introduction](#introduction)  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 [Lists](#lists)  
@@ -16,13 +16,13 @@
 
 # Introduction
 
-Markdown is a set of simple rules that make it easy to create beautiful documents while writing in "plain text" (plaintext is just the regular alphabet, with a few familiar symbols like \* and \`. Websites like GitHub and reddit and applications like Slack or MSTeams use Markdown to style their comments.
+Markdown is a set of simple rules that make it easy to create beautiful documents while writing in "plain text" -- plaintext is just the regular alphabet, with a few familiar symbols like \* and \`. Websites (like GitHub and reddit) and applications (like Slack or MSTeams) use Markdown to style their comments.
 
 This is a short markdown reference and showcase. For more complete information, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](https://github.github.com/gfm/).
 
 If you are searching for a a more elaborate tutorial, check out [The markdown guide](https://www.markdownguide.org/) or [The markdown tutorial](http://markdowntutorial.com/)
 
-The [awesome markdown](https://github.com/mundimark/awesome-markdown#markdown-documentation) page gives  list of markdown goodies (libraries, services, editors, tools, cheatsheets, etc.). If you are looking for info on markdown editors, check the [awesome-markdown-editors page](https://github.com/mundimark/awesome-markdown-editors)
+The [awesome markdown](https://github.com/mundimark/awesome-markdown#markdown-documentation) page gives a list of markdown goodies (libraries, services, editors, tools, cheatsheets, etc.). If you are looking for info on markdown editors, check the [awesome-markdown-editors page](https://github.com/mundimark/awesome-markdown-editors).
 
 
 # Headers
